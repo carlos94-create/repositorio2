@@ -1,0 +1,2 @@
+@blue = (10,20,30,30)
+print "la salida es: ",@blue
